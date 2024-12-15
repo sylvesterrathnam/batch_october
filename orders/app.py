@@ -7,6 +7,7 @@ from fastapi import FastAPI
 
 app = FastAPI(debug=True)
 
+
 # we import our api module so that the view functions can be registered at runtime
 
 from orders.api import api

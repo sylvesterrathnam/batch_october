@@ -1,2 +1,3 @@
-venv/
-.batch_october/
+#ignore virtual environments
+
+batch_october/
