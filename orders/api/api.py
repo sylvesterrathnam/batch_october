@@ -22,6 +22,12 @@ order = {
             'size':'small',
             'quantity': 2
         }
+
+        {
+            'product':'chapati',
+            'size':'big',
+            'quantity': 5            
+        }
     ]
 }
 
